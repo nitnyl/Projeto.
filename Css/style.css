@@ -1,0 +1,27 @@
+.fundo {
+    background-color: black;
+}
+
+.Dark {
+    position: absolute;
+    top: 23%; 
+    left: 20%;
+}
+
+.menu {
+    color: blanchedalmond;
+    position: absolute;
+    top: 50%; 
+    left: 48%;
+    font-style: bold;
+    font-size: 25px;
+}
+
+.exemplo1 {
+    color: #fff;
+    font-weight:bolder;
+    text-decoration:none !important
+    }
+    .exemplo1:hover {
+    text-shadow: 0 0 4px #fff;
+    }
